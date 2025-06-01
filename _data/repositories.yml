@@ -6,16 +6,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - topic: Low-light image enhancement
-    repos:
-      - zhihongz/INFWIDE
-      - dawnlh/awesome-low-light-image-enhancement
-  - topic: Snapshot compressive imaging
-    repos:
-      - zhihongz/HCA-SCI
-      - zhihongz/BDINR
-      - zhihongz/DCE
-      - Scientific-Research-Resource/SCI-algorithms
+  - zhihongz/INFWIDE
+  - zhihongz/HCA-SCI
+  - zhihongz/BDINR
+  - zhihongz/DCE
+  - dawnlh/awesome-low-light-image-enhancement
+  - Scientific-Research-Resource/SCI-algorithms
 
 
 
