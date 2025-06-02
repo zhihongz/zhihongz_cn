@@ -49,7 +49,7 @@ ninja.data = [{
           description: "Jumping to Zhihong Zhang&#39;s English personal page...",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/zhihongz_cn/_pages/en/";
+            window.location.href = "/zhihongz_cn/en/";
           },
         },{id: "post-a-post-with-giscus-comments",
         
