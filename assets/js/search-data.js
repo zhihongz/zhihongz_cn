@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "Publications",
-          description: "publications by categories in reversed chronological order.",
+          description: "† equal contribution, * corresponding author.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zhihongz_cn/publications/";
@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-english",
           title: "English",
-          description: "",
+          description: "Jumping to Zhihong Zhang&#39;s English personal page...",
           section: "Navigation",
           handler: () => {
             window.location.href = "/zhihongz_cn/_pages/en/";
@@ -102,9 +102,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-shanghai-china",
           title: 'Shanghai, China',
-          description: "Photography in Shanghai",
+          description: "Photography at Shanghai",
           section: "Projects",handler: () => {
-              window.location.href = "/zhihongz_cn/projects/photography_in_shanghai/";
+              window.location.href = "/zhihongz_cn/projects/photography_at_shanghai/";
             },},{
         id: 'social-email',
         title: 'email',
