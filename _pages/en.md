@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /en/
 redirect: https://zhihongz.github.io/
 title: English
 nav: true

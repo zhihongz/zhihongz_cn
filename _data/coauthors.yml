@@ -1,27 +1,29 @@
-"Zhang":
+# NOTE: the last name MUST BE lower cased and MUST NOT contain accents
+
+"zhang":
   - firstname: ["Zhihong"]
     url: https://zhihongz.github.io/
 
-"Liu":
+"liu":
   - firstname: ["Yang"]
     url: https://liuyang12.github.io/
 
-"Yuan":
+"yuan":
   - firstname: ["Xin"]
     url: https://xygroup6.github.io/xygroup/
 
-"Suo":
+"suo":
   - firstname: ["Jinli"]
     url: https://scholar.google.com/citations?user=e4lel8QAAAAJ
 
-"Dai": 
+"dai": 
   - firstname: ["Qionghai"]
     url: https://scholar.google.com/citations?user=CHAajY4AAAAJ
 
-"Bian":
+"bian":
   - firstname: ["Liheng"]
     url: https://bianlab.github.io/
 
-"Cheng":
+"cheng":
   - firstname: ["Yuxiao"]
     url: https://www.researchgate.net/profile/Yuxiao-Cheng-4
