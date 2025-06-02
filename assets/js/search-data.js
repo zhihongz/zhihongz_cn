@@ -145,7 +145,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/zhihongz_cn//feed.xml", "_blank");
+          window.open("/zhihongz_cn/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',

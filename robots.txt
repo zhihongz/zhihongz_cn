@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhihongz.github.io/zhihongz_cn//sitemap.xml
+Sitemap: https://zhihongz.github.io/zhihongz_cn/sitemap.xml
