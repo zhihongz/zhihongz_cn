@@ -2,16 +2,16 @@
   {% for content in entry.contents %}
     <li class="list-group-item">
       <div class="row">
-        <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px">
+        <div class="col col-sm-3 abbr">
           {%- if content.badge -%}
             {% if content.badge contains '://' -%}
-              <img data-zoomable class="preview z-depth-1 rounded" src="{{ content.badge }}">
+              <img src="{{ content.badge }}" class="preview z-depth-1 rounded medium-zoom-image" width="100%" height="auto"  alt="badge_image_not_found" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
             {%- else -%}
               <img src="{{ content.badge | prepend: '/assets/img/badge/' | relative_url }}" class="preview z-depth-1 rounded medium-zoom-image" width="100%" height="auto"  alt="badge_image_not_found" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
             {%- endif -%}
           {%- endif -%}
         </div>
-        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
+        <div class="col-sm-8">
           {% if content.title %}
           <h6 class="title font-weight-bold ml-1 ml-md-4">{{ content.title }}</h6>
           {% endif %}
