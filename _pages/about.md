@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-计算摄影（computational photography）与机器学习（machine learning）研发工程师。
+计算摄影（computational photography）与机器学习（machine learning）算法工程师。
 
 2019年于<a href='https://www.xidian.edu.cn/'>西安电子科技大学</a>获得电子信息工程专业工学学士学位。2024年于<a href='https://www.tsinghua.edu.cn/'>清华大学</a>获得控制科学与工程专业工学博士学位，师从<a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>索津莉</a>副教授。博士研究聚焦于运用光学、电子、计算机视觉、机器学习等多领域知识，联合设计前端成像系统与后端视觉算法，实现从图像采集、传输到处理的全链路联合优化，以达到成像质量、系统性能和视觉任务的整体提升。
 
-当前工作聚焦于 AI ISP 与计算摄影相关领域。同时，持续关注先进视觉技术及人工智能方向的最新进展，如事件相机（event cameras）、生成式AI（generative AI）、具身智能（embodied AI）等。
+当前工作围绕计算摄影、图像/视频大模型等相关领域。同时，持续关注视觉与人工智能方向的前沿进展，如视觉语言模型、世界模型、具身智能（embodied AI）等。
