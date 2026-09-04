@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/zhihongz_cn/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A collection of my cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/zhihongz_cn/projects/";
-          },
-        },{id: "nav-repositories",
-          title: "Repositories",
-          description: "My github accounts and some github projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/zhihongz_cn/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
